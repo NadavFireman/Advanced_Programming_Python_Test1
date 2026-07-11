@@ -16,6 +16,3 @@ The project assesses the ability to efficiently apply core Python and Pandas ski
 * **`Advanced_Programming_Test1.ipynb`**: Full Python solution notebook with code and analysis results.
 * **`StudentsPerformance.csv`**: The dataset used in the examination.
 * **`Test_Instructions_1.pdf`**: Original examination instructions.
-
-***
-*Course: Advanced Programming (Shenkar College, IE&M)*
